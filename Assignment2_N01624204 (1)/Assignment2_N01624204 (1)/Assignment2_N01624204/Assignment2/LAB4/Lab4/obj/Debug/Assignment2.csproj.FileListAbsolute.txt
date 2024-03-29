@@ -1,0 +1,45 @@
+C:\Users\vorti\OneDrive\Desktop\Assignment1_N01624204\C# assignment\Assignment2C#\LAB4\LAB4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\vorti\OneDrive\Desktop\Assignment1_N01624204\C# assignment\Assignment2C#\LAB4\LAB4\Lab4\bin\Debug\Lab4.exe
+C:\Users\vorti\OneDrive\Desktop\Assignment1_N01624204\C# assignment\Assignment2C#\LAB4\LAB4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\vorti\OneDrive\Desktop\Assignment1_N01624204\C# assignment\Assignment2C#\LAB4\LAB4\Lab4\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\vorti\OneDrive\Desktop\Assignment1_N01624204\C# assignment\Assignment2C#\LAB4\LAB4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\vorti\OneDrive\Desktop\Assignment1_N01624204\C# assignment\Assignment2C#\LAB4\LAB4\Lab4\obj\Debug\Lab4.Main.resources
+C:\Users\vorti\OneDrive\Desktop\Assignment1_N01624204\C# assignment\Assignment2C#\LAB4\LAB4\Lab4\obj\Debug\Lab4.AddNew.resources
+C:\Users\vorti\OneDrive\Desktop\Assignment1_N01624204\C# assignment\Assignment2C#\LAB4\LAB4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\vorti\OneDrive\Desktop\Assignment1_N01624204\C# assignment\Assignment2C#\LAB4\LAB4\Lab4\obj\Debug\Lab4.Update.resources
+C:\Users\vorti\OneDrive\Desktop\Assignment1_N01624204\C# assignment\Assignment2C#\LAB4\LAB4\Lab4\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\vorti\OneDrive\Desktop\Assignment1_N01624204\C# assignment\Assignment2C#\LAB4\LAB4\Lab4\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\vorti\OneDrive\Desktop\Assignment1_N01624204\C# assignment\Assignment2C#\LAB4\LAB4\Lab4\obj\Debug\Lab4.exe
+C:\Users\vorti\OneDrive\Desktop\Assignment1_N01624204\C# assignment\Assignment2C#\LAB4\LAB4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.LoginForm.resources
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.Main.resources
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.AddNew.resources
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.Update.resources
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.Register.resources
+C:\Users\Dell\Downloads\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.StudentManagement.resources
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\bin\Debug\Lab4.exe
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.Loginform.resources
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.Main.resources
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.AddNew.resources
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.Register.resources
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.StudentManagement.resources
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.Update.resources
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.exe
+C:\Users\vorti\Videos\Assignment2_N01624204 (1)\Assignment2_N01624204 (1)\Assignment2_N01624204\Assignment2\LAB4\Lab4\obj\Debug\Lab4.pdb
